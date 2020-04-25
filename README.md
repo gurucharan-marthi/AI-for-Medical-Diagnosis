@@ -9,5 +9,5 @@ This repo contains all my work for this specialization. All the code base, quiz 
 
 # Programming Assignments
 
-[- Week 1 - PA - Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/mk-gurucharan/AI-for-Medical-Diagnosis/tree/master/Week%201)
+[- Week 1 ](https://github.com/mk-gurucharan/AI-for-Medical-Diagnosis/tree/master/Week%201)
 
