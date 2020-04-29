@@ -10,4 +10,5 @@ This repo contains all my work for this specialization. All the code base, quiz 
 # Programming Assignments and Quiz
 
 [- Week 1 ](https://github.com/mk-gurucharan/AI-for-Medical-Diagnosis/tree/master/Week%201)
-
+[- Week 2 ](https://github.com/mk-gurucharan/AI-for-Medical-Diagnosis/tree/master/Week%202)
+[- Week 3 ](https://github.com/mk-gurucharan/AI-for-Medical-Diagnosis/tree/master/Week%203)
