@@ -41,7 +41,7 @@ Most often datasets will range from 10,000 to 100,000 labeled images. Fewer than
 
 5. Which of the following data augmentations would be best to apply?
 
-[**Click here for the Image**](https://github.com/mk-gurucharan/AI-for-Medical-Diagnosis/blob/master/Week%201/Qn5.JPG)
+- [**Click here for the Image**](https://github.com/mk-gurucharan/AI-for-Medical-Diagnosis/blob/master/Week%201/Qn5.JPG)
 
 Correct! 
 This rotation is most likely to help. This is a realistic transformation. Also, it does not risk changing the label.
